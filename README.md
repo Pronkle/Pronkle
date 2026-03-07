@@ -1,4 +1,4 @@
-## Hi!
+## Hallo!
 
 I'm a freshman at the University of Michigan intending to study Computer Engineering. I have experience with robotics development in Java through the FIRST Robotics Competition. I've also worked on additional app development projects through Javascript (React) and CSS, as well as graphs and prediction algorithms through python.
 
