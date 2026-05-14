@@ -1,4 +1,4 @@
-## Hallo!
+## Hi There!
 
 I'm a freshman at the University of Michigan studying Electrical Engineering and Computer Science. I did FRC and am currently a member of The Michigan Mars Rover Team and the MaizeBus dev team (download :D). 
 
